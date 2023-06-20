@@ -5,9 +5,9 @@ def main():
     headers = get_api_auth()
     'Main function for running all other functions/modules.'
     # Pull exchange rates data from API
-    # get_job_posted(headers)
+    get_job_posted(headers)
     # Transform raw job posted data from an external JSON file
-    transformed_raw_data()
+    #transformed_raw_data()
     #print('Transformed data written to a csv file')
 
 main()
