@@ -23,8 +23,6 @@ def get_job_posted(headers):
         json.dump(response_data, jobfile)
         print('data successfully written to a raw database file')
     
-    
-    
 
 
         

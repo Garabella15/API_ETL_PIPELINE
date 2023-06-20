@@ -18,8 +18,8 @@ def get_api_auth():
     rapidapi_key = os.getenv("X-RapidAPI-KEY")
     rapidapi_host = os.getenv("X-RapidAPI-Host")
     headers = { 
-                "X-RapidAPI-Key":  rapidapi_key,
-	            "X-RapidAPI-Host":  rapidapi_host
+                    "X-RapidAPI-Key":  rapidapi_key,
+	                "X-RapidAPI-Host":  rapidapi_host
             }
     return headers
 
