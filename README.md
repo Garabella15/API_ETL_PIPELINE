@@ -11,9 +11,13 @@ X-RapidAPI-Host= API_HOST
 env also contained the variables for the database connection 
 
 DB_NAME=
+
 DB_USER=
+
 DB_PASSWORD=
+
 DB_HOST=
+
 DB_PORT=
 
 
