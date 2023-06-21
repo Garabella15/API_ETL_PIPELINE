@@ -34,10 +34,11 @@ def transformed_raw_data():
     with open('raw/raw_job_posted_data.json', 'r') as job_file:
         reader = json.load(job_file)
         data = reader['data']
-        
     
     # reading the data to pandas dataframe, and the selected columns required are listed in the column_name
-    column_names = ['employer_website', 'job_id', 'job_employment_type', 'job_title', 'job_apply_link', 'job_description', 'job_city', 'job_country', 'job_posted_at_timestamp','employer_company_type']
+    column_names = ['employer_website', 'job_id', 'job_employment_type', 'job_title', 'job_apply_link', 'job_description', 
+                    'job_city', 'job_country', 'job_posted_at_timestamp','employer_company_type']
+    
     job_df = pd.DataFrame(data, columns=column_names)
     
     #converting the timestamp vale to date
@@ -48,10 +49,13 @@ def transformed_raw_data():
     
     # write the transformed data to a csv file 
     filepath = 'Transformed/cleaned_job_posted.csv'
-    job_df.to_csv(filepath, sep='\t', encoding='utf-8', index=False)
+    job_df.to_csv(filepath, index=False)
     print('clean date succesffuly write to the transformed staging area')
     
 
-    
-    # filepath = os.path('API_ETL_PIPELINE/Transfromed/job_posted_data.csv')   
-    # job_df.to_csv(filepath)
+
+def load(engine):
+    # read the file from the filepath to pandas dataframe
+    filepath = 'Transformed/cleaned_job_posted.csv'
+    df = pd.read_csv(filepath)
+    df.to_sql('talent', con=engine)

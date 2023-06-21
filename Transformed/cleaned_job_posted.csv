@@ -1,5 +1,5 @@
-employer_website	job_id	employment_type	job_title	job_apply_link	job_description	City	Country	job_posted_date	Sector
-http://www.directlinegroup.com	qP3ni6PwqL4AAAAAAAAAAA==	FULLTIME	Data Engineer	https://www.directlinegroupcareers.com/job/london/data-engineer/38736/49327726448	"About us
+employer_website,job_id,employment_type,job_title,job_apply_link,job_description,City,Country,job_posted_date,Sector
+http://www.directlinegroup.com,qP3ni6PwqL4AAAAAAAAAAA==,FULLTIME,Data Engineer,https://www.directlinegroupcareers.com/job/london/data-engineer/38736/49327726448,"About us
 
 Direct Line Group is one of the UK's largest insurance companies and home to some of the best-known brands including Direct Line, Churchill and Green Flag.
 
@@ -47,8 +47,8 @@ If you need us to make any adjustments to our recruitment process, speak to our 
 
 #LI-Hybrid
 
-#LI-CG1"	London	GB	2023-05-24 00:00:00	Finance
-http://www.mars.com	n7NXT9gY590AAAAAAAAAAA==	FULLTIME	One Demand Data Analytics (ODDA) DevOps Engineer	https://careers.mars.com/global/en/job/R18695/One-Demand-Data-Analytics-ODDA-DevOps-Engineer	"One Demand Data & Analytics (ODDA) is a Mars Wrigley program that harnesses the power of data and insights to solve some of the critical business-wide problems we face – unlocking quality growth and operational excellence.
+#LI-CG1",London,GB,2023-05-24 00:00:00,Finance
+http://www.mars.com,n7NXT9gY590AAAAAAAAAAA==,FULLTIME,One Demand Data Analytics (ODDA) DevOps Engineer,https://careers.mars.com/global/en/job/R18695/One-Demand-Data-Analytics-ODDA-DevOps-Engineer,"One Demand Data & Analytics (ODDA) is a Mars Wrigley program that harnesses the power of data and insights to solve some of the critical business-wide problems we face – unlocking quality growth and operational excellence.
 
 Through ODDA, we deliver connected insights across the entire demand ecosystem. We empower our Associates with the right data, tools and capabilities so they can take decisive action, maximizing value and making a meaningful impact on our consumers, our customers and our business.
 
@@ -86,8 +86,8 @@ What will be your key responsibilities?
 • Survey developers and technical members of the organization to understand their main pain points in the coding and development process
 • Collaborate with the rest of DevOps team to deliver consistent and holistic solutions to the organization
 
-#LI-LD1"	Newark	US	2022-03-22 00:00:00	Retail
-http://plaid.com	UrXmv5VA3eUAAAAAAAAAAA==	FULLTIME	Data Engineer - Data Platform	https://www.karkidi.com/job-details/28493-data-engineer-data-platform-job	"We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam.
+#LI-LD1",Newark,US,2022-03-22 00:00:00,Retail
+http://plaid.com,UrXmv5VA3eUAAAAAAAAAAA==,FULLTIME,Data Engineer - Data Platform,https://www.karkidi.com/job-details/28493-data-engineer-data-platform-job,"We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam.
 
 Making data-driven decisions is key to Plaid's culture. To support that, we need to scale our data systems while maintaining correct and complete data. We provide tooling and guidance to teams across engineering, product, and business and help them explore our data quickly and safely to get the data insights they need, which ultimately helps Plaid serve our customers more effectively. In addition, Plaid will not be successful if we can't move quickly. We build the data systems and tools that enable everyone at Plaid to be data-driven, making analytics easy, obvious, and proactive across the company.
 
@@ -113,8 +113,8 @@ What excites us
 • You are empathetic working with stakeholders. You listen to them, ask the right questions, and collaboratively come up with the best solutions for their needs.
 • You are a champion for data privacy and integrity, and always act in the best interest of consumers.
 
-Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com."	London	GB	2022-12-25 00:00:00	
-	mBW2boLuUz8AAAAAAAAAAA==	FULLTIME	Data Engineer	https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-durham-county-durham/	"Data Engineer
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.",London,GB,2022-12-25 00:00:00,
+,mBW2boLuUz8AAAAAAAAAAA==,FULLTIME,Data Engineer,https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-durham-county-durham/,"Data Engineer
 
 Remote
 
@@ -145,8 +145,8 @@ Your skills and experience
 Benefits
 • Up to £75, 000 plus discretionary bonus
 • Private healthcare
-• Fully remote role"	Durham	GB	2023-06-06 10:19:22	
-http://www.rbs.com	GYIouqnlm3kAAAAAAAAAAA==	FULLTIME	Data Engineer	https://jobs.natwestgroup.com/jobs/12130048-data-engineer	"Join us as a Data Engineer
+• Fully remote role",Durham,GB,2023-06-06 10:19:22,
+http://www.rbs.com,GYIouqnlm3kAAAAAAAAAAA==,FULLTIME,Data Engineer,https://jobs.natwestgroup.com/jobs/12130048-data-engineer,"Join us as a Data Engineer
 • We’ll look to you to drive the build of effortless, digital-first customer experiences as you simplify our bank while keeping our data safe and secure
 • Day-to-day, you’ll develop innovative, data-driven solutions through data pipeline modelling and ETL design, inspiring to be commercially successful through insights
 • This is your opportunity to explore your leadership potential while bringing a competitive edge to your career profile by solving problems and creating smarter solutions
@@ -175,8 +175,8 @@ In addition, you'll need experience of data warehouse, ETL, big data and NoSQL a
 You’ll also need:
 • Experience with DEI (BDM), IDMC along with Mongo, Snowflake and AWS S3 data stores
 • Familiarity with cloud engineering and a good knowledge of AWS Infrastructure architecture including EMRs
-• Experience of Agile methodologies and the ability to co-ordinate with various workstreams and product owners"	Edinburgh	GB	2023-06-16 00:00:00	Finance
-http://www.livenationentertainment.com	INdvzzdMbyAAAAAAAAAAAA==	FULLTIME	Lead Data Engineer	https://www.karkidi.com/job-details/43695-lead-data-engineer-job	"THE TEAM
+• Experience of Agile methodologies and the ability to co-ordinate with various workstreams and product owners",Edinburgh,GB,2023-06-16 00:00:00,Finance
+http://www.livenationentertainment.com,INdvzzdMbyAAAAAAAAAAAA==,FULLTIME,Lead Data Engineer,https://www.karkidi.com/job-details/43695-lead-data-engineer-job,"THE TEAM
 
 You will be joining a new Data Engineering team to help get the most value out of our real-time data streams with a focus on ensuring genuine fans have the best opportunity to buy tickets.
 
@@ -227,8 +227,8 @@ Belonging - We are committed to building a culture in which all people can be th
 
 EQUAL OPPORTUNITIES
 
-We are passionate and committed to our people and go beyond the rhetoric of diversity and inclusion. You will be working in an inclusive environment and be encouraged to bring your whole self to work. We will do all that we can to help you successfully balance your work and homelife. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. It's talent that matters to us and we encourage applications from people irrespective of their gender, race, sexual orientation, religion, age, disability status or caring responsibilities."		GB	2023-06-13 00:00:00	Advertising
-http://www.brighttalk.com	X0XwAuDJXRoAAAAAAAAAAA==	FULLTIME	Senior Data Engineer UK (Remote)	https://www.karkidi.com/job-details/24318-senior-data-engineer-uk-remote-job	"We are looking for a talented and passionate Sr. Data Engineer / Architect to join BrightTALK’s Data team based in the US East coast.The Data team builds and maintains the infrastructure responsible for consuming, exposing and creating product and product-derived (augmented) datasets. This team owns the pipelines that transport and process database data from all of BrightTALK’s product surfaces. The team is responsible for building and operating the infrastructure and services that ensure data accuracy
+We are passionate and committed to our people and go beyond the rhetoric of diversity and inclusion. You will be working in an inclusive environment and be encouraged to bring your whole self to work. We will do all that we can to help you successfully balance your work and homelife. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. It's talent that matters to us and we encourage applications from people irrespective of their gender, race, sexual orientation, religion, age, disability status or caring responsibilities.",,GB,2023-06-13 00:00:00,Advertising
+http://www.brighttalk.com,X0XwAuDJXRoAAAAAAAAAAA==,FULLTIME,Senior Data Engineer UK (Remote),https://www.karkidi.com/job-details/24318-senior-data-engineer-uk-remote-job,"We are looking for a talented and passionate Sr. Data Engineer / Architect to join BrightTALK’s Data team based in the US East coast.The Data team builds and maintains the infrastructure responsible for consuming, exposing and creating product and product-derived (augmented) datasets. This team owns the pipelines that transport and process database data from all of BrightTALK’s product surfaces. The team is responsible for building and operating the infrastructure and services that ensure data accuracy
 
 Responibilities
 • Building and maintain highly reliable data services to integrate with dozens of consumers.
@@ -269,8 +269,8 @@ Why we like working at BrightTALK
 • Training allowance and opportunities to innovate.
 • Team building and volunteering opportunities.
 • Stock options in our business.
-• We LOVE recognising our people and award trips to our global offices for quarterly program winners."		GB	2022-05-31 00:00:00	Computer Services
-	YCljVKIBeo8AAAAAAAAAAA==	FULLTIME	Data Analytics Engineer	https://www.adzuna.co.uk/jobs/details/4155156604	"We are looking for a skilled and highly motivated Analytics engineer to join our Data & Market intelligence department. As an Analytics Engineer, you will help to build Caxton's Data Foundation. You will work closely with other departments such as Marketing, Sales, Tech and Finance teams to develop, deliver and maintain data-driven solutions and analytics services.
+• We LOVE recognising our people and award trips to our global offices for quarterly program winners.",,GB,2022-05-31 00:00:00,Computer Services
+,YCljVKIBeo8AAAAAAAAAAA==,FULLTIME,Data Analytics Engineer,https://www.adzuna.co.uk/jobs/details/4155156604,"We are looking for a skilled and highly motivated Analytics engineer to join our Data & Market intelligence department. As an Analytics Engineer, you will help to build Caxton's Data Foundation. You will work closely with other departments such as Marketing, Sales, Tech and Finance teams to develop, deliver and maintain data-driven solutions and analytics services.
 
 Caxton was born in 2002, an ambitious start-up with one mission: to make payments simple and more transparent. We wanted to make it easier, smarter and cheaper for people to send and spend money across the globe and we’ve stayed true to our word. CXTN, our world-class platform and team helps hundreds of thousands of clients save millions of pounds every year.
 
@@ -310,4 +310,4 @@ Benefits
 Office Culture & Environment
 • Open plan office based in the City of London. Professional and informal culture. Flat hierarchy means direct and regular communication with Directors and the CEO is encouraged
 • Hybrid working between Home and Office standard
-• A friendly environment with regular social and inspirational events."	London	GB	2023-06-16 11:32:45	
+• A friendly environment with regular social and inspirational events.",London,GB,2023-06-16 11:32:45,
