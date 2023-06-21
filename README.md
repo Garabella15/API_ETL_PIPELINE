@@ -21,11 +21,11 @@ DB_HOST=
 DB_PORT=
 
 
-util.py provides the function that return the database and rapidapi connection.
+util.py provides the functions that return the database and rapidapi connection.
 
 extract_job_posted.py - ETL pipeline code
 
-main.py calls the function in extract_job_posted.py
+main.py calls the functions in extract_job_posted.py
 
 
 
