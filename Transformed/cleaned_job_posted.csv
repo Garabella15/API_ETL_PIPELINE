@@ -1,0 +1,313 @@
+employer_website	job_id	employment_type	job_title	job_apply_link	job_description	City	Country	job_posted_date	Sector
+http://www.directlinegroup.com	qP3ni6PwqL4AAAAAAAAAAA==	FULLTIME	Data Engineer	https://www.directlinegroupcareers.com/job/london/data-engineer/38736/49327726448	"About us
+
+Direct Line Group is one of the UK's largest insurance companies and home to some of the best-known brands including Direct Line, Churchill and Green Flag.
+
+What you'll do:
+• Work as part of the Data Engineering team to uphold and evolve common standards and collaborate to ensure that our data solutions are complementary and not duplicative.
+• Build and maintain automated pipelines to support data solutions across BI and analytics use cases.
+• Collaborate with other technology teams to ingest, transform and load data from multiple data sources, structured and unstructured data.
+• Work closely with data scientists and data analysts to implement and produce data models.
+• Build patterns, common ways of working, and standardized data pipelines for DLG to ensure consistency across the organization.
+
+What you'll need:
+
+Direct Line Group is going through an exciting transformation to be the top tier data-driven business in the UK's general insurance market.
+
+To achieve this, we are growing our Data Chapter which is working with the business to build a new large-scale, cloud hosted, secure, and consolidated data and analytics platform to allow our users to work with all their data from a single trusted platform.
+
+The platform uses the economics of big data, cloud elasticity, Machine Learning (ML)/Artificial Intelligence (AI) automation and permissioned data sharing to turn information into business insights and address business and operational challenges.
+
+Our Data/Platform engineers are accountable for the development and operations of the Data Platform to get maximum value from data for our users.
+
+Concerning the Tech Stack, there are many technologies that make us tick, some of which include; AWS S3, Redshift, SQL, Python, PySpark, and any more.
+
+As part of the Data Chapter, you will work under the direction of a Chapter Area Lead
+
+Ways of Working
+
+Here at Direct Line Group, we recognise the importance of flexibility, not only in our personal lives but also in the way we work. Our mixed model way of working offers a 'best of both worlds' approach combining the best parts of home and office-working, offering flexibility for everyone.
+
+How much you'll be in the office depends on your role, and we'll consider the flexible working options that work best for you. You can find out more about our flexible working approach or please get in touch with the team to discuss.
+
+Benefits
+
+We recognise we wouldn't be where we are today without our colleagues, that's why we offer such excellent benefits designed to suit you as and when you need them:
+• Pension
+• 50% off home, motor and pet insurance plus free travel insurance and Green Flag breakdown cover
+• Additional optional Health and Dental insurance
+
+Life at Direct Line Group
+
+Direct Line Group is an equal opportunity employer. We value diversity and we're committed to making DLG a truly inclusive place to work.
+
+We recognise and embrace that people work in different ways and we'll always adapt as much as possible so you have the best and most comfortable working environment that we can offer. We know you're more than a CV, and the things that make you, you, can bring real potential to DLG.
+
+If you need us to make any adjustments to our recruitment process, speak to our recruitment team who will be happy to support you.
+
+#LI-Hybrid
+
+#LI-CG1"	London	GB	2023-05-24 00:00:00	Finance
+http://www.mars.com	n7NXT9gY590AAAAAAAAAAA==	FULLTIME	One Demand Data Analytics (ODDA) DevOps Engineer	https://careers.mars.com/global/en/job/R18695/One-Demand-Data-Analytics-ODDA-DevOps-Engineer	"One Demand Data & Analytics (ODDA) is a Mars Wrigley program that harnesses the power of data and insights to solve some of the critical business-wide problems we face – unlocking quality growth and operational excellence.
+
+Through ODDA, we deliver connected insights across the entire demand ecosystem. We empower our Associates with the right data, tools and capabilities so they can take decisive action, maximizing value and making a meaningful impact on our consumers, our customers and our business.
+
+The ODDA DevOps Engineer builds software functionality and participates with the delivery team in taking on development responsibilities for the entire tech stack
+
+What are we looking for?
+• Master’s Degree in Computer Science, Application Programming, Software Development, Information Systems, Database Administration, Mathematics, Engineering, or other related field.
+• 6+ years in a rapid development environment, preferably within an analytics environment
+• Demonstrated ability to be work with internal (Operations) and external (IT) stakeholders
+• Must be able to interact and collaborate at all levels within Operations Analysis & Performance, OCC, cross-divisional working groups, and outside entities
+• Experience with increasing code quality and implementing best practices across teams
+• Advanced technical skills in the following areas:
+• Proficiency in SQL (CTE, window functions, temporal data), SAP HANA experience is a large plus
+• Proficiency in a scripting language (Python preferred)
+• Proficiency of API Consumption
+• Proficiency in ETL tooling (such as Informatica)
+• Proven expertise in SAP ECC and SAP APO is a big plus
+• Excellent communication skills and ability to present concepts to non-technical audience
+• Must be able to interact and collaborate at all levels within Operations Analysis & Performance, OCC, cross-divisional working groups, and outside entities
+• Strong project management, organizational, and prioritizations skills
+• 2 to 4 years' experience in applied data science role or equivalent; ideally in a CPG, Retail
+• Knowledge and experience in modelling techniques and advanced applied skills (e.g. significance testing, GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.) using tools like Spark, Scala, SAS, R, Python, Bayesia, H2O, Storm, Yarn, and Kafka
+• Experience querying databases (SQL, Hive)
+• Experience working with big data platforms such as Hadoop ecosystem (Azure), including in-memory solutions (SAP HANA and Apache Spark)
+• Working knowledge of data visualization tools such as Tableau, Power BI, D3, ggplot, to deliver output to the broader business community to improve decision making and productivity
+
+What will be your key responsibilities?
+• Work closely with Tech Leads and developers of various teams to assess existing problems and to produce process improvement solutions
+• Detect upcoming bottlenecks and production issues proactively and consult teams hands-on towards improved technical solutions
+• Participate in planning delivery time, code quality, and process efficiency improvement projects
+• Execute on plan by building coding standardizations and automating processes for the organization
+• Perform daily tasks such as environmental health checks, disk space monitoring, and environmental status reports
+• Maintain and grows knowledge of platform configuration management and troubleshooting
+• Actively participate in deploying application artifacts to appropriate target environments using the supported technologies and infrastructure
+• Survey developers and technical members of the organization to understand their main pain points in the coding and development process
+• Collaborate with the rest of DevOps team to deliver consistent and holistic solutions to the organization
+
+#LI-LD1"	Newark	US	2022-03-22 00:00:00	Retail
+http://plaid.com	UrXmv5VA3eUAAAAAAAAAAA==	FULLTIME	Data Engineer - Data Platform	https://www.karkidi.com/job-details/28493-data-engineer-data-platform-job	"We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam.
+
+Making data-driven decisions is key to Plaid's culture. To support that, we need to scale our data systems while maintaining correct and complete data. We provide tooling and guidance to teams across engineering, product, and business and help them explore our data quickly and safely to get the data insights they need, which ultimately helps Plaid serve our customers more effectively. In addition, Plaid will not be successful if we can't move quickly. We build the data systems and tools that enable everyone at Plaid to be data-driven, making analytics easy, obvious, and proactive across the company.
+
+Data Engineers heavily leverage SQL and Python to build data workflows that integrate with our Golang and Typescript applications. We use tools like DBT, Airflow, Redshift, ElasticSearch, Atlan, and Retool to orchestrate data pipelines and define workflows. We work with engineers, product managers, business intelligence, data analysts, and many other teams to build Plaid's data strategy and a data-first mindset.
+
+Our engineering culture is IC-driven -- we favor bottom-up ideation and empowerment of our incredibly talented team. We are looking for engineers who are motivated by creating impact for our consumers and customers, growing together as a team, shipping the MVP, and leaving things better than we found them.
+
+What excites you
+• Defining the long-term technical roadmap for building a data-drive culture at Plaid
+• Leading key data engineering projects that drive collaboration across the company
+• Mentoring engineers, operations, and data analysts on best practices for data organization and query performance
+• Advocating for adopting industry tools and practices at the right time
+• Owning core SQL and python data pipelines that power our data lake and data warehouse
+• Well-documented data with defined dataset quality, uptime, and usefulness.
+
+What excites us
+• 2 years of dedicated data engineering experience, solving complex data pipelines issues at scale.
+• You value SQL as a flexible and extensible tool, and are comfortable with modern SQL data orchestration tools like DBT, Mode, Hightouch, and Airflow.
+• Experience working both real-time systems like Kinesis, Kafka, Flink, and batch data pipelines in Redshift, Presto, and Data Lakes.
+• You appreciate the importance of schema design, and can evolve an analytics schema on top of unstructured data.
+• You are excited to try out new technologies. You like to produce proof-of-concepts that balance technical advancement and user experience and adoption.
+• You like to get deep in the weeds to manage, deploy, and improve low level data infrastructure.
+• You are empathetic working with stakeholders. You listen to them, ask the right questions, and collaboratively come up with the best solutions for their needs.
+• You are a champion for data privacy and integrity, and always act in the best interest of consumers.
+
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com."	London	GB	2022-12-25 00:00:00	
+	mBW2boLuUz8AAAAAAAAAAA==	FULLTIME	Data Engineer	https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-data-engineer-durham-county-durham/	"Data Engineer
+
+Remote
+
+Up to £75, 000
+
+Permanent
+
+An exciting opportunity for a Data Engineer to join a boutique tech consultancy start-up and help high-profile clients implement disruptive technologies to their businesses.
+
+The Company
+
+The company has a very small headcount, and has big expansion plans over the next two years, and work with a number of high profile companies, individuals, and influencers. The initial project will focus on heling a high net-worth individual modernise and optimise the data for their fleet of private jets.
+
+Currently, this is a standalone role, and will work alongside a permanent Data Scientist. A consultancy has been on board for all data engineering needs, but they will hand over to this role to build out the permanent team.
+
+The role and responsibilities
+• Work with CEO and Head of Data to develop a data platform (AWS)
+• Building upon PoC work that’s already undertaken
+• Supporting Data Scientist by providing clean data
+• Optimising for model performance
+
+Your skills and experience
+• Experience with AWS, Python and Databricks
+• Experience with APIs
+• Experience with ML Ops (preferable)
+• Experience or education in aerospace (preferable)
+
+Benefits
+• Up to £75, 000 plus discretionary bonus
+• Private healthcare
+• Fully remote role"	Durham	GB	2023-06-06 10:19:22	
+http://www.rbs.com	GYIouqnlm3kAAAAAAAAAAA==	FULLTIME	Data Engineer	https://jobs.natwestgroup.com/jobs/12130048-data-engineer	"Join us as a Data Engineer
+• We’ll look to you to drive the build of effortless, digital-first customer experiences as you simplify our bank while keeping our data safe and secure
+• Day-to-day, you’ll develop innovative, data-driven solutions through data pipeline modelling and ETL design, inspiring to be commercially successful through insights
+• This is your opportunity to explore your leadership potential while bringing a competitive edge to your career profile by solving problems and creating smarter solutions
+• This is a remote hybrid role. You will be expected to be able to travel to a hub office location once a week
+
+What you’ll do
+
+In this role, you’ll develop and share knowledge of business data structures and metrics, advocating for changes when needed for product development. You’ll also educate and embed new data techniques into the business through role modelling, training, and experiment design oversight.
+
+We’ll look to you to own the end-to-end high-level solution design for a project, programme or initiative, and translate requirements into a series of transition state designs and an executable roadmap. You'll be working closely with the sponsors, key stakeholders, the business and change and functional delivery teams of the project or initiative to ensure design compliance and successful delivery.
+
+You’ll also be responsible for:
+• Driving DevOps adoption into the delivery of data engineering, proactively performing root cause analysis while resolving issues
+• Delivering a clear understanding of data platform cost levers to meet department cost savings and income targets
+• Driving customer value by understanding complex business problems and requirements to correctly apply the most appropriate and reusable tools to gather and build data solutions
+• Driving data engineering strategies to build complex, scalable data architecture and a customer feature rich dataset
+• Working alongside colleagues, scrums and project teams while liaising with technology and engineering teams to build business stakeholder engagement and to develop data solutions
+• Driving the advanced automation of data engineering pipelines through the removal of manual stages
+
+The skills you’ll need
+
+We’re looking for someone with strong communication skills and the ability to proactively engage and manage a wide range of stakeholders. You’ll have extensive experience working in a governed, and regulatory environment, as well as experience of conceptual, logical and physical data modelling in RDBMS, and conceptual, operational modelling in document stores.
+
+In addition, you'll need experience of data warehouse, ETL, big data and NoSQL architectures and design patterns along with DevOps methodologies. You'll also bring experience of various data ingest methods, including streaming with real time ingestion and exposure to cloud engineering in AWS.
+
+You’ll also need:
+• Experience with DEI (BDM), IDMC along with Mongo, Snowflake and AWS S3 data stores
+• Familiarity with cloud engineering and a good knowledge of AWS Infrastructure architecture including EMRs
+• Experience of Agile methodologies and the ability to co-ordinate with various workstreams and product owners"	Edinburgh	GB	2023-06-16 00:00:00	Finance
+http://www.livenationentertainment.com	INdvzzdMbyAAAAAAAAAAAA==	FULLTIME	Lead Data Engineer	https://www.karkidi.com/job-details/43695-lead-data-engineer-job	"THE TEAM
+
+You will be joining a new Data Engineering team to help get the most value out of our real-time data streams with a focus on ensuring genuine fans have the best opportunity to buy tickets.
+
+THE JOB
+
+We are seeking a highly skilled Lead Data Engineer to join our team and play a critical role in developing and maintaining our data infrastructure. The ideal candidate will have a deep understanding of data platforms and tools, as well as experience designing and implementing data pipelines and ETL processes.
+
+WHAT YOU WILL BE DOING
+• Design, implement, and maintain data pipelines and ETL processes that enable real-time data-driven decision-making.
+• Work closely with the Director of Data Science and cross-functional teams to identify data requirements, define data models, and develop scalable solutions to support our growing data needs.
+• Build and maintain data warehouses, and other data infrastructure components that ensure data quality, accuracy, and availability.
+• Continuously monitor and evaluate data infrastructure performance, and identify opportunities for improvement and optimization.
+• Ensure compliance with data security and privacy policies, and implement appropriate access controls and data governance frameworks.
+• Collaborate with data scientists, analysts, and other stakeholders to ensure that data infrastructure supports their analytical needs and requirements.
+
+WHAT YOU NEED TO KNOW (or TECHNICAL SKILLS)
+• Bachelor's or Master's degree in Computer Science, Engineering, or relevant experience. hands-on data science experience Strong knowledge of data platforms and tools, including Hadoop, Spark, SQL, and NoSQL databases.
+• Experience designing and implementing data pipelines and ETL processes. Good knowledge of ML ops principles and best practices to deploy, monitor and maintain machine learning models in production. Familiarity with Git and MLflow for managing and tracking model versions
+• Experience with Kafka is a big bonus
+• Experience with cloud-based data platforms such as AWS or Google Cloud Platform.
+• Proven track record of running large scale mission critical data infrastructure in production Experience with container technologies (such as Docker) and orchestration technologies (such as Kubernetes)
+• Experience working in ecommerce or retail industries is a plus.
+• An understanding of security measures related to ML models ensuring adherence to data privacy regulations.
+
+YOU (BEHAVIOURAL SKILLS)
+• Excellent problem-solving and analytical skills, with the ability to identify and resolve complex data infrastructure issues.
+• Proficient collaborating with data scientists to understand their requirements and assist implementation of machine learning models.
+• A Deep product focused mindset, with a desire to understand your customers and what will make their use of your output easier and more efficient.
+• Curious by nature, enjoy looking into problems around your core tasks, experimenting with potential solutions.
+
+LIFE AT TICKETMASTER
+
+We are proud to be a part of Live Nation Entertainment, the world’s largest live entertainment company.
+
+Our vision at Ticketmaster is to connect people around the world to the live events they love. As the world’s largest ticket marketplace and the leading global provider of enterprise tools and services for the live entertainment business, we are uniquely positioned to successfully deliver on that vision.
+
+We do it all with an intense passion for Live and an inspiring and diverse culture driven by accessible leaders, attentive managers, and enthusiastic teams. If you’re passionate about live entertainment like we are, and you want to work at a company dedicated to helping millions of fans experience it, we want to hear from you.
+
+Our work is guided by our values:
+
+Reliability - We understand that fans and clients rely on us to power their live event experiences, and we rely on each other to make it happen.
+
+Teamwork - We believe individual achievement pales in comparison to the level of success that can be achieved by a team
+
+Integrity - We are committed to the highest moral and ethical standards on behalf of the countless partners and stakeholders we represent
+
+Belonging - We are committed to building a culture in which all people can be their authentic selves, have an equal voice and opportunities to thrive
+
+EQUAL OPPORTUNITIES
+
+We are passionate and committed to our people and go beyond the rhetoric of diversity and inclusion. You will be working in an inclusive environment and be encouraged to bring your whole self to work. We will do all that we can to help you successfully balance your work and homelife. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. It's talent that matters to us and we encourage applications from people irrespective of their gender, race, sexual orientation, religion, age, disability status or caring responsibilities."		GB	2023-06-13 00:00:00	Advertising
+http://www.brighttalk.com	X0XwAuDJXRoAAAAAAAAAAA==	FULLTIME	Senior Data Engineer UK (Remote)	https://www.karkidi.com/job-details/24318-senior-data-engineer-uk-remote-job	"We are looking for a talented and passionate Sr. Data Engineer / Architect to join BrightTALK’s Data team based in the US East coast.The Data team builds and maintains the infrastructure responsible for consuming, exposing and creating product and product-derived (augmented) datasets. This team owns the pipelines that transport and process database data from all of BrightTALK’s product surfaces. The team is responsible for building and operating the infrastructure and services that ensure data accuracy
+
+Responibilities
+• Building and maintain highly reliable data services to integrate with dozens of consumers.
+• Creating ETL or ELT pipelines that transform and process structured and unstructured data in real-time.
+• Designing data models for optimal storage and retrieval to support high latency.
+• Deploying and monitoring large database clusters that are performant and highly-available.
+• Working cross-functionally with data scientists, backend engineers, and product managers to design and implement new data models to support the product.
+• Developing your skills through exceptional training as well as frequent coaching and mentoring from colleagues.
+• Some upcoming technical challenges include scaling our data ingestion pipelines across a growing number of AWS and data center based data sources, reducing the latency of our product data ingestion pipelines through improving our batch jobs, and extending our data lake architecture for the growing ecosystem of data ingestion and creation tools.
+
+Skils
+• Bachelor's degree (or equivalent) in Computer Science or related field.
+• 5+ years of experience building real-time and distributed architecture, from whiteboard to production
+• Strong programming skills in Python, SQL.Versatility.
+• Experience across the entire spectrum of data engineering, including:
+• Data stores (e.g., AWS RDS, AWS Athena, AWS Aurora, AWS Redshift).
+• Data pipeline and workflow orchestration tools (e.g., Azkaban, Airflow).
+• Data processing technologies (e.g., Spark, Pentaho).
+• Deployment and monitoring batch and realtime integrating with large database clusters in public cloud platforms.
+• Adaptable. Goals can change fast. You anticipate and react quickly.
+• Autonomous. You own what you work on. You move fast and get things done.
+• Excellent communication. You will need communicate complex ideas effectively to both technical and non-technical audiences, and both verbally and in writing.
+• Collaborative. You must work collaboratively in a cross-functional team and with people at all levels in an organization.
+• Industry experience building and productionizing innovative end-to-end Machine Learning systems is a plus.
+
+Expertise/ Qualifications
+• Strong Knowledge of Python & SQL.
+• Hands on experience with either Pentaho or other Data Integration tools in the market.
+• Demonstrable experience of working in a linux environmentUnderstanding of Terraform and use of it for deployment pipelines.
+• Experience working with CI/CD tools.
+
+Why we like working at BrightTALK
+• Friendly, talented, collaborative and entrepreneurial teams.
+• Generous and comprehensive benefits.
+• Generous holiday policy with a flexible schedule.
+• Beautiful London office close to Liverpool Street Station.
+• Regular company sponsored social events.
+• Training allowance and opportunities to innovate.
+• Team building and volunteering opportunities.
+• Stock options in our business.
+• We LOVE recognising our people and award trips to our global offices for quarterly program winners."		GB	2022-05-31 00:00:00	Computer Services
+	YCljVKIBeo8AAAAAAAAAAA==	FULLTIME	Data Analytics Engineer	https://www.adzuna.co.uk/jobs/details/4155156604	"We are looking for a skilled and highly motivated Analytics engineer to join our Data & Market intelligence department. As an Analytics Engineer, you will help to build Caxton's Data Foundation. You will work closely with other departments such as Marketing, Sales, Tech and Finance teams to develop, deliver and maintain data-driven solutions and analytics services.
+
+Caxton was born in 2002, an ambitious start-up with one mission: to make payments simple and more transparent. We wanted to make it easier, smarter and cheaper for people to send and spend money across the globe and we’ve stayed true to our word. CXTN, our world-class platform and team helps hundreds of thousands of clients save millions of pounds every year.
+
+Our vision is to shape the future of payments – with Caxton’s software as a financial service at the core of delivering every payment for individuals to businesses, start-ups, and PLCs.
+
+Our people are at the heart of what we do. This is an exciting position to help drive the business into a new era of data-based decision-making and most importantly help us serve our customers better.
+
+You’ll join a community, which engages with all members of staff – including the directors and CEO, thanks to our open-plan office and collaborative, hybrid working.
+
+Requirements
+
+The primary responsibilities of this position are as follows :
+• Design & implement Data flow: Create and maintain optimal data Pipeline architecture and re-designing infrastructure for greater scalability
+• Data ingestion & Data preparation: Automating manual processes, data integrating, managing data resources, optimizing data delivery and ensuring data quality.
+• Design & develop Analytics Dashboards: Collaborate with data scientists to build reporting and analytical tools.
+• Monitor and adjust the performance of existing analytics applications.
+• Gather and identify data-related requirements from stakeholders.
+
+Relevant Qualifications:
+• Bachelor's degree in computer science, software or computer engineering, or a related field.
+• 2+ years of experience in data engineering and data processing or PhD or Master's degree in a related field.
+• Expertise working with various technologies (e.g. Python, SQL, Microsoft Power BI)
+• Knowledge of data mining, and data warehousing concepts, ETL processes, and cloud computing (e.g. Snowflake, Azure etc.)
+• Excellent collaboration, problem-solving, and communication skills.
+• Exposure to data science methodologies and project management skills would be nice-to-have.
+
+Benefits
+• Best in class IT equipment and full support
+• Great private working space within the Beyond at Aldgate Tower Shared Office with free coffee, Barista and beer on tap
+• 25 days holiday (plus bank holidays)
+• Annual bonus
+• Contributory Pension and Life assurance
+• Vitality Private Health Insurance with family cover
+• Preferential FX rates for friends and family
+• + more via ‘Perks at Work""
+
+Office Culture & Environment
+• Open plan office based in the City of London. Professional and informal culture. Flat hierarchy means direct and regular communication with Directors and the CEO is encouraged
+• Hybrid working between Home and Office standard
+• A friendly environment with regular social and inspirational events."	London	GB	2023-06-16 11:32:45	
