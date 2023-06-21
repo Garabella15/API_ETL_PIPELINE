@@ -5,6 +5,7 @@ persisting the data in postgres database.
 .env file created in the root directory contains the RapidAPI key and Host. created an account in the RapidAPI and assign it to value variable below
 
 X-RapidAPI-Key= API_KEY
+
 X-RapidAPI-Host= API_HOST
 
 env also contained the variables for the database connection 
